@@ -11,7 +11,7 @@
 
 Переместиться в каталог с проектом
 
-    cd django-orm-watching-storage
+    cd guard_remote_control
 
 Установить необходимые зависимости
 
